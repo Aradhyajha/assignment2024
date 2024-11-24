@@ -14,7 +14,7 @@ Setup Instructions
 Step 1: Clone the Repository
 
 Copy code
-git clone https://github.com/aradhya-jha/role-based-access-control
+git clone https://github.com/Aradhyajha/assignment2024
 
 Step 2: Navigate to the Project Directory and Install Dependencies
 
