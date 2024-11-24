@@ -12,12 +12,12 @@ The application is nearly production-ready.
 
 Setup Instructions
 Step 1: Clone the Repository
-bash
+
 Copy code
 git clone https://github.com/aradhya-jha/role-based-access-control
+
 Step 2: Navigate to the Project Directory and Install Dependencies
-bash
-Copy code
+
 cd role-based-access-control
 npm install
 Step 3: Configure Environment Variables
